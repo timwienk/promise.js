@@ -1,0 +1,4 @@
+*.swp
+*~
+*.todo
+/node_modules
