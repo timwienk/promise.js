@@ -1,12 +1,12 @@
 {
-	"name": "promise.js",
-	"version": "1.0.0",
-	"main": "src/promise.js",
-	"scripts": {
-		"test": "mocha test/test.js --bail"
-	},
-	"devDependencies": {
-		"mocha": "*",
-		"promises-aplus-tests": "*"
-	}
+  "name": "promise.js",
+  "version": "1.0.0",
+  "main": "src/promise.js",
+  "scripts": {
+    "test": "mocha test/test.js --bail"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "promises-aplus-tests": "*"
+  }
 }
